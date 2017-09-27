@@ -1,0 +1,14 @@
+[alias]
+	co = checkout
+	br = branch
+	st = status
+	ci = commit
+[user]
+	email = g.tavantzopoulos@gmail.com
+	name = George Tavantzopoulos
+[core]
+	editor = vim
+[merge]
+	tool = meld
+[rerere]
+	enabled = true

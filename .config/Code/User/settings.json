@@ -1,0 +1,36 @@
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontFamily":  "Oxygen Mono,Code New Roman,Ubuntu Mono",
+    "editor.fontSize": 15,
+    "editor.renderWhitespace": true,
+    "editor.trimAutoWhitespace": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.renderIndentGuides": true,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.autoIndent": true,
+    "editor.tabCompletion": true,
+    "editor.quickSuggestions": true,
+    "editor.snippetSuggestions": "inline",
+    "editor.formatOnSave": false,
+    "workbench.editor.showTabs": true,
+    "eslint.enable": true,
+    "eslint.run": "onSave",
+    "eslint.options": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true,
+            "tsx": true
+        }
+    },
+    "workbench.colorTheme": "Solarized Dark",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.minimap.enabled": true,
+    "editor.minimap.renderCharacters": false,
+    "editor.selectionHighlight": true,
+    "workbench.activityBar.visible": true,
+    "vsicons.dontShowNewVersionMessage": true,
+    "window.menuBarVisibility": "toggle",
+    "cSpell.language": "en,en-GB",
+}
